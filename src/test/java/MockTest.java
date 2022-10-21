@@ -19,7 +19,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @ExtendWith(MockitoExtension.class)
-class TestMock {
+class MockTest {
 
     private static final String USER_IP = "172.";
     private static final String USER_IP_NOT_RUS = "96.";
